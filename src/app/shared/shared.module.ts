@@ -16,7 +16,8 @@ import { RouterLink, RouterOutlet } from '@angular/router';
     ReactiveFormsModule,
     RouterLink,
     RouterOutlet,
-    HttpClientModule
+    HttpClientModule,
+    
   ], 
   exports:[
     CommonModule,
